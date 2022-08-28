@@ -22,6 +22,9 @@
 
 
 
+
+
+
 baseurl="https://ncode.syosetu.com/txtdownload/dlstart/ncode/*******/?no="
 
 for i in `seq 1 10`
